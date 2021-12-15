@@ -1,5 +1,5 @@
 ## Este programa faz parte da disciplina do Projeto Integrador III.
-### Projeto feito com ajuda do material de Desenvolvimento de Software para Web
+### Projeto feito com ajuda do material de apoio: Desenvolvimento de Software para Web
 ### Lecionado pelo professor Gláucio Rocha
 
 ---
