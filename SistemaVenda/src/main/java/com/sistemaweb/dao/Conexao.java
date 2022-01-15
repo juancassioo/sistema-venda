@@ -19,7 +19,7 @@ public class Conexao {
 			
 			try {
 				Class.forName("com.mysql.jdbc.Driver");
-				conn = DriverManager.getConnection("jdbc:mysql://localhost/sistemavenda", "root", "panda234");
+				conn = DriverManager.getConnection("jdbc:mysql://localhost/sistemavenda", "root", "");
 			
 			} catch (SQLException | ClassNotFoundException e) {
 				
